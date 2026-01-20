@@ -1,15 +1,11 @@
 package com.example;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
+    private static Subject subject = new Subject();
+    
     public static void main( String[] args )
     {
-        Subject subject = new Subject();
-
         while(true) {
             subject.subscribe(new Observer());
 

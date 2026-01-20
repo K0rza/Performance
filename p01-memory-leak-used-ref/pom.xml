@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.example</groupId>
-  <artifactId>p06-listener-leak</artifactId>
+  <artifactId>p01-memory-leak-used-ref</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>p06-listener-leak</name>
+  <name>p01-memory-leak-used-ref</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
